@@ -1,2 +1,2 @@
-# dicegame
-refresh and see the winner
+# Dice game
+The code consist of  HTML,CSS and JAVASCRIPT  
